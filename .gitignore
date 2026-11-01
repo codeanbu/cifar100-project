@@ -1,0 +1,8 @@
+﻿.venv/
+data/
+__pycache__/
+.ipynb_checkpoints/
+*.keras
+!models/
+!models/custom_cnn_improved.keras
+!models/best_mobilenetv2_cifar100.keras
